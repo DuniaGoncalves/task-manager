@@ -6,8 +6,10 @@
 }
 
 h1 {
-  font-size: 1.8rem;
-  color: #bb86fc;
+  color: #6c5ce7;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
 }
 
 /* Larger screens */
