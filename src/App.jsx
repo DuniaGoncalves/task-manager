@@ -1,13 +1,13 @@
-import './App.css'
+import React from 'react';
+import TaskManager from './components/TaskManager';
 
 const App = () => {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-
-    </>
-  )
+    <div className="App">
+      <TaskManager />
+    </div>
+  );
 }
 
-export default App
+export default App;
+
